@@ -8,3 +8,4 @@ install:
 
 script:
   - python3 graph_dfs_tests.py
+  - python3 graph_tests.py
