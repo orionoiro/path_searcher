@@ -1,8 +1,9 @@
 [![Build Status](https://travis-ci.org/orionoiro/path_searcher.svg?branch=master)](https://travis-ci.org/orionoiro/path_searcher)
 
-  Using a data from map in .txt file. For example: 
+  Using a data from map in .txt file. Each entry in the map file consists of the following four positive integers, separated by a blank space:
+            From To TotalDistance DistanceOutdoors: 
   
-    32 76 54 23 = From To TotalDistance DistanceOutdoors. 
+    32 76 54 23
       This entry would become an edge from 32 to 76.
   
   Path_searcher solves a simple optimization problem on a graph. 
