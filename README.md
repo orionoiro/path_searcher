@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/orionoiro/path_searcher.svg?branch=master)](https://travis-ci.org/orionoiro/path_searcher)
   
   
-  #Description
+  # Description
   
   Using a data from a map in .txt file. Each entry in the map file contains four positive integers, separated by a blank space:
             - From 
