@@ -1,8 +1,10 @@
 I made this repository and a simple graph traversal program mainly for testing ci. 
 
 [![Build Status](https://travis-ci.org/orionoiro/path_searcher.svg?branch=master)](https://travis-ci.org/orionoiro/path_searcher)
-
-  Using a data from map in .txt file. Each entry in the map file consists of the following four positive integers, separated by a blank space:
+  
+  
+  Description:
+  Using a data from map in .txt file. Each entry in the map file consists of the following four positive integers, separated by a     blank space:
             From To TotalDistance DistanceOutdoors: 
   
     32 76 54 23
